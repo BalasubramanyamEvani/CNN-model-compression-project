@@ -1,0 +1,3 @@
+l1norm_pruning_itr_9.h5 my_model_weights_1.h5
+magnitude_pruning_itr_6.h5 my_model_weights_2.h5
+thinet_pruning_itr_9.h5 my_model_weights_3.h5
